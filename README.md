@@ -56,7 +56,7 @@ Run the script from the terminal with required arguments:
 
 ```bash
 python auto_committer.py \
-  --github-username BhargavBJ \
+  --github-username GaneshGA \
   --repo-name Private-Experiment \
   --local-path "E:/auto-pr-bot/Private-Experiment" \
   --branch main \
